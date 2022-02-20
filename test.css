@@ -1,0 +1,89 @@
+body{
+        margin: 20px;
+        border: 5px dashed brown ;
+        padding: 50px;
+        background-color: rgb(236, 230, 221);
+        
+}
+h1{
+        text-align: center;
+        background-color: rgb(230, 221, 207);
+        color: brown;
+        width: 1000px;
+       margin-left: 350px;
+       font-size: 60px;
+       margin-top: 0px;
+       padding: 15px;
+}
+#about{
+        font-size: 20px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-top: 90px;
+        text-align: center;
+        background-color: brown;
+        margin-left: 380px;
+        margin-right: 380px;
+        color: bisque;
+        padding: 10px;
+
+}
+#formMain{
+        color: rgba(10, 10, 10, 0.973);
+        margin: 100px;
+        font-size: 25px;
+}
+#quest1{
+        width: 1200px;
+        height: 50px;
+        background-color: beige;
+}
+#quest2{
+        margin-top: 30px;
+}
+.question_2{
+        margin-left: 45px;
+}
+
+.quest3_choice{
+        margin-left: 45px;
+}
+#flight{
+        width: 200px;
+        font-size: 18.5px;
+        margin-left: 60px;
+}
+.personalInfo{
+        margin: 35px;
+        font-size: 20px;
+}
+.questions{
+        line-height: 100px;
+        background-color: rgb(172, 233, 212);
+        margin: 10px;
+       background-color: rgb(172, 233, 212);
+        margin: 10px; 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#pi{
+        background-color: rgb(172, 233, 212);
+        margin: 10px;  
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#qest3{
+        background-color: rgb(172, 233, 212);
+        margin: 10px; 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+        background-color: darkgray;
+}
+#submit{
+        margin-left: 20px;
+        width: 150px;
+        height: 50px;
+        font-size: 25px;
+        margin-top: 20px;
+        border-radius: 6px;
+        box-shadow: 6px;
+}
